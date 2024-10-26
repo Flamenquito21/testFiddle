@@ -1,0 +1,16 @@
+{
+  "name": "female-seat-face-nbm7k",
+  "productName": "female-seat-face-nbm7k",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "andre",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "32.1.2"
+  }
+}
